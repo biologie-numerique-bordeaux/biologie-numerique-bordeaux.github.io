@@ -1,0 +1,19 @@
+site_name: Biologie Numérique Bordeaux
+
+nav:
+  - Home: 'docs/index.md'
+  - Séminaires: 
+    - Titres:
+      - 'docs/2024.md'
+      - 'docs/2023.md'
+      - 'docs/2022.md'
+      - 'docs/2021.md'
+      - 'docs/2020.md'
+    - Résumés:
+      - 'docs/resumes.md'
+  - Autres événements: 'docs/about.md'
+
+
+markdown_extensions:
+  - toc:
+      permalink: "#"
