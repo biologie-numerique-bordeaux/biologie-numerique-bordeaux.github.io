@@ -1,3 +1,7 @@
+---
+titre: Biologie Numérique à Bordeaux
+---
+
 ### Qui sommes-nous ?
 
  (logo LaBRI) (logo BRIC)
