@@ -1,1 +1,1 @@
-# biologie-numerique-bordeaux.github.io
+# Biologie Numérique Bordeaux
