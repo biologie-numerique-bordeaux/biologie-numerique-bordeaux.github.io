@@ -6,6 +6,8 @@
 
 ### Pourquoi BioNum ?
 
+La communauté bioinformaticienne de Bordeaux est disséminée dans de nombreux laboratoires et instituts se situant sur divers sites. Ceci mènent certain·e·s d'entre nous à être un peu isolé·e·s et les occasions de se rencontrer sont rares. L'initiative de la création du groupe biologie numérique est née forte de ce constat et nous proposons régulièrement des séminaires sur des thématiques variées liées à la bioinformatiques (métagénomique, reconstruction 3D génome, interprétabilité de l'IA etc) ouverts à tou·te·s suivis de temps d'échanges.
+
 ### Activités
 
 #### [Séminaires à venir et passés](docs/index.md)
