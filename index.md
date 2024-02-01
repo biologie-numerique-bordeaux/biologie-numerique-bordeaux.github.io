@@ -4,9 +4,11 @@
 
 ### Pourquoi BioNum ?
 
-### [Séminaires à venir et passés](docs/index.md)
+### Activités
 
-## [Autres événements](docs/about.md)
+#### [Séminaires à venir et passés](docs/index.md)
+
+#### [Autres événements](docs/about.md)
 
 ### S'inscrire ou se déinsinscrire
 
