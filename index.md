@@ -1,8 +1,8 @@
 ### Qui sommes-nous ?
 
-![LaBRI](docs/img/LABRI_BIG_0.png) 
-![BRIC](docs/img/horizontal-bric-1.png)
-![Université de Bordeaux](docs/img/Universite Bordeaux RVB-03.jpg)
+<img src="docs/img/LABRI_BIG_0.png" alt="LaBRI" width="200"/> <img src="docs/img/horizontal-bric-1.png" alt="BRIC" width="400"/>
+
+<img src="docs/img/UB.jpg" alt="Université de Bordeaux" width="400"/>
 
 ### Pourquoi BioNum ?
 
