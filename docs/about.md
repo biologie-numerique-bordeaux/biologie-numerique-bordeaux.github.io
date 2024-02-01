@@ -16,5 +16,3 @@ Merci à tou·te·s
 
 ![Présentation Bordeaux](img/JOBIM_presentation_V2.png)
 
-![Evénement social](img/20210708_184529.jpeg)
-
