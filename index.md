@@ -1,3 +1,5 @@
+# Biologie Numérique à Bordeaux
+
 ### Qui sommes-nous ?
 
 <img src="docs/img/LABRI_BIG_0.png" alt="LaBRI" width="200"/> <img src="docs/img/horizontal-bric-1.png" alt="BRIC" width="400"/>
