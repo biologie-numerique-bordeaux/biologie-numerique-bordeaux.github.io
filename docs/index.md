@@ -1,3 +1,5 @@
+[Home](../index.md)
+
 ### Séminaires à venir
 
 Jeudi 22 Février: Théo Gauvrit, doctorant à l’Institut Magendie, Inserm, Bordeaux:  
