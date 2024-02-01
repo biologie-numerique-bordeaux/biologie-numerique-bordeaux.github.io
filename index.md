@@ -10,9 +10,9 @@ La communauté bioinformaticienne de Bordeaux est disséminée dans de nombreux 
 
 ### Activités
 
-#### [Séminaires à venir et passés](docs/index.md)
+[Séminaires à venir et passés](docs/index.md)
 
-#### [Autres événements](docs/about.md)
+[Autres événements](docs/about.md)
 
 ### S'inscrire ou se déinsinscrire
 
