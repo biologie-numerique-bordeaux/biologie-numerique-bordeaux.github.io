@@ -5,7 +5,7 @@
 _Jeudi 22 Février_: **Théo Gauvrit**, doctorant à l’Institut Magendie, Inserm, Bordeaux:  
 Etudes précliniques sur l’Autisme: quels outils pour analyser et modéliser des données complexes ? [Résumé](resumes.md#Gauvrit2024)
 
-## Séminaires passés
+### Séminaires passés
 
 [2024](2024.md)
 
